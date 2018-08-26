@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import UIKit
 
 protocol SwipeAnimator {
     /// A Boolean value indicating whether the animation is currently running.
